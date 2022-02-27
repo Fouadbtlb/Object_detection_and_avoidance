@@ -15,15 +15,17 @@ Traditional object detection techniques follow the 3 major steps given in the fi
 Example of the algorithms used in this step : 
     - Selective Search 
     - EdgeBoxes
-<br/>
-<br/>
-* In **the second** step , various image descriptors will extract a feature victor of fixed lenght.
+
+* **the second** step , various image descriptors will extract a feature victor of fixed lenght.
 Exemple of image descriptors :
+<br/>
     - histogram of oriented gradients.
 <br/>
 <br/>
-* In **The third** each vector is passed to a classifier that will assign the vector to a specifique class.
+
+* **The third** each vector is passed to a classifier that will assign the vector to a specifique class.
 Exemple of classifiers:
+<br/>
     - Support vector machine
 
 ### R-CNN
