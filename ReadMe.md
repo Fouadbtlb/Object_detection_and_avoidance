@@ -5,10 +5,11 @@
 5. [How to use](#how-to-use)
 ### General Info
 ***
-In this projet i am tring to build a model for an autonomous car to avoid obstacles.
+In this projet i am tring to build a model for an autonomous car in order to avoid obstacles.
 For this I'll be using Faster RCNN pretrained model for "object detection" and DQN for "Obstacle avoidance". 
 I build the project as a tutoriel if you have just started in object detection this one may help you.
-Note: For now I have just did the Object detection still working on the DQN Agent.
+
+Note: For now I have just did the Object detection, i am  still working on the DQN Agent.
 ### Screenshot
 ![Image text](Images/Car.png)
 ## Technologies
